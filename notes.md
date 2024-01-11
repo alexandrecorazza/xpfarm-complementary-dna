@@ -23,3 +23,10 @@ Driver: Alexandre
 Navigator: PK
 
 1. The input never will be empty
+
+# Podmodoro 2 🍅:
+Driver: PK
+Navigator: Alexandre
+
+2. Given a string, replace "A" with "T" and vice versa
+3. Give a string "ATTGC" replace with "TAACG"

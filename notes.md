@@ -4,22 +4,22 @@
 ✅ done 🚧 WIP ❌ ERROR
 
 **Example**
-TODO: Your task is to write a function called validSpacing() which checks if a string has valid spacing. The function should return either true or false.
+DESCRIPTION:
+Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
 
-* 'Hello world'   => true
-* ' Hello world'  => false
-* 'Hello world  ' => false
-* 'Hello  world'  => false
-* 'Hello'         => true
+If you want to know more: http://en.wikipedia.org/wiki/DNA
 
-Even though there are no spaces, it is still valid because none are needed:
-* 'Helloworld'    => true
-* 'Helloworld '   => false
-* ' '             => false
-* ''              => true
+In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G". Your function receives one side of the DNA (string, except for Haskell); you need to return the other complementary side. DNA strand is never empty or there is no DNA at all (again, except for Haskell).
+
+More similar exercise are found here: http://rosalind.info/problems/list-view/ (source)
+
+Example: (input --> output)
+
+"ATTGC" --> "TAACG"
+"GTAT" --> "CATA"
 
 # Podmodoro 1 🍅:
-Driver: Fulano
-Navigator: Ciclano
+Driver: Alexandre
+Navigator: PK
 
-1. The function must recever a paramether 🚧
+1. The input never will be empty
